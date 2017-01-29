@@ -14,7 +14,7 @@ Sample contents:  Angular2 @Input @Output test
   * pub get     (My stick PC takes 45 minutes)
   * pub serve   (about 1 minute)
 3. step2
-  * set browser to http://localhost:8088/
+  * set http://localhost:8080/ to browser
 4. step3
   * click **send** buttons
 5. snapshot
