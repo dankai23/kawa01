@@ -18,4 +18,4 @@ Sample contents:  Angular2 @Input @Output test
 4. step3
   * click **send** buttons
 5. snapshot
-![snapshot](./20170128-1.jpg)
+  * ![snapshot](./20170128-1.jpg)
