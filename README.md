@@ -11,10 +11,10 @@ Sample contents:  Angular2 @Input @Output test
   * get dart SDK
   * get dartium
 2. step1
-  * pub get
-  * 2.pub serve
+  * pub get   (My stick PC takes 45 minutes)
+  * pub serve (about 1 minute)
 3. step2
   * set browser to http://localhost:8088/
 4. step3
-  * click send buttons
+  * click 「send」 buttons
 5. snapshot
