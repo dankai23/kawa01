@@ -8,7 +8,7 @@ Sample contents:  Angular2 @Input @Output test
 
 How to run  
   step0  
-    get dart SDK  
+      get dart SDK  
     get dartium   
   step1
     pub get  
