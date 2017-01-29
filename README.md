@@ -16,6 +16,6 @@ Sample contents:  Angular2 @Input @Output test
 3. step2
   * set http://localhost:8080/ to browser
 4. step3
-  * click **send** buttons
+  * click **Send** buttons
 5. snapshot
   * ![snapshot](./20170126-1.jpg)
