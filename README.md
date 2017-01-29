@@ -6,7 +6,7 @@ angular2-input-output-test
 Language: Google AngularDart  
 Sample contents:  Angular2 @Input @Output test  
 
-How to run  
+## How to run  
 1.step0  
 *get dart SDK  
 *get dartium   
